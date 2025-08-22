@@ -8,7 +8,7 @@ export default function Gallery() {
     <section
       id="gallery"
       className="relative py-20 min-h-screen flex items-center justify-center text-white bg-cover bg-center bg-no-repeat"
-      style={{ backgroundImage: "url('public/images/minsoc1.jpg')" }}
+      style={{ backgroundImage: "url('/images/minsoc1.jpg')" }}
     >
       {/* Overlay biar teks lebih jelas */}
       <div className="absolute inset-0 bg-black/50"></div>
