@@ -3,10 +3,10 @@ import React from "react";
 const Schedule = () => {
   const matches = [
     {
-      Tanggal: "Minggu, 24 Agustus 2025",
-      Event: "Internal Fun Game",
-      Jam: "16.00 - 18.00 WIB",
-      Lapangan: "Bestindo Sport Center",
+      Tanggal: "Minggu, 7 Desember 2025",
+      Event: "Sparing Fun Game",
+      Jam: "17.30 - 20.00 WIB",
+      Lapangan: "Soccerstation, Plumpang Semper",
     },
   ];
 
